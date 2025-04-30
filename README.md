@@ -1,4 +1,6 @@
-Smart Housing Project Dashboard
+                                                                Smart Housing Project Dashboard
+
+
 An intuitive Android app for managing, filtering, and visualizing housing development projects, empowering project managers and stakeholders with real-time insights and seamless navigation.
 
 Table of Contents
