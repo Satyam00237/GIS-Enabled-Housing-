@@ -1,0 +1,9 @@
+<layer-list xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@color/white" /> <!-- Or your preferred background color -->
+    <!-- Icon center -->
+    <item>
+        <bitmap
+            android:gravity="center"
+            android:src="@mipmap/ic_launcher" /> <!-- Replace with your logo if you want -->
+    </item>
+</layer-list>
